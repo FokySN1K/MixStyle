@@ -231,6 +231,9 @@ Excel/Old_Product/
 Excel/Sample/
 
 
+# DataBase
+DataBase/MixStyle.db
+
 # Spyder project settings
 .spyderproject
 .spyproject
