@@ -222,6 +222,8 @@ venv.bak/
 admin/.env
 consumer/.env
 
+# DataBase
+DataBase/MixStyle.db
 
 #Other file in Excel
 
@@ -231,8 +233,9 @@ Excel/Old_Product/
 Excel/Sample/
 
 
-# DataBase
-DataBase/MixStyle.db
+
+=
+
 
 # Spyder project settings
 .spyderproject
